@@ -1,3 +1,5 @@
+***NB This Repository was merged into https://github.com/GitTools/GitVersion/tree/poc/new-cli***
+
 Ways the commands can be run from command line
 
 ```bash
